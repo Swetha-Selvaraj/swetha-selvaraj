@@ -1,15 +1,14 @@
 # Hi, I’m Swetha Selvaraj 👋  
 
 Software Engineer focused on **Generative AI, AIOps, and cloud platforms**.  
-I build **practical, production-ready AI systems** that solve real enterprise problems.
+I build **practical AI systems** that solve real enterprise problems.
 
 ---
 
 ## What I do
 - Build **GenAI systems** (RAG, agentic workflows, function calling)
-- Work on **observability & auto-remediation** for large-scale systems
+- Work on **observability & auto-remediation** for infra usecase
 - Design **cloud-native microservices** on Azure & AWS
-- Integrate AI with **enterprise platforms** like ServiceNow
 
 ---
 
@@ -34,17 +33,21 @@ I build **practical, production-ready AI systems** that solve real enterprise pr
 ## Tech I use
 
 **Languages**  
-Python · C# · SQL  
+Python · SQL  
 
 **AI / ML**  
+Time Series Modelling , Anomaly Detection 
+Vision Models CNN, ANN , Language Models RNN
+
+**GenAI**
 RAG · Advanced RAG · Prompt Engineering · Function Calling  
-Agentic AI · Vector DBs · LLM Evaluation (RAGAS, LLM-as-a-Judge)  
+Agentic AI · Vector DBs · LLM Evaluation and Observability
 
 **Backend & Cloud**  
 FastAPI · ASP.NET Core · Azure · AWS · Docker · REST APIs  
 
 **Data & Platforms**  
-MongoDB · Redis · ServiceNow · Neo4j · Qdrant  
+MongoDB · Redis · ServiceNow · Neo4j · PostgreSQL · Qdrant · Pinecone
 
 ---
 
