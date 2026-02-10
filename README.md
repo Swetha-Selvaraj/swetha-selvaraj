@@ -1,32 +1,31 @@
 # Hi, I’m Swetha Selvaraj 👋  
 
-Software Engineer focused on **Generative AI, AIOps, and cloud platforms**.  
-I build **practical AI systems** that solve real enterprise problems.
+Software Engineer focused on **Agentic AI worklows** that solve real enterprise problems.
 
 ---
 
 ## What I do
-- Build **GenAI systems** (RAG, agentic workflows, function calling)
-- Work on **observability & auto-remediation** for infra usecase
-- Design **cloud-native microservices** on Azure & AWS
+- Build **GenAI products** (using RAG, agentic workflows)
+- Worked on **observability & auto-remediation** for infra usecase
+- Design **cloud-native microservices** on AWS
 
 ---
 
 ## Selected work
 
-**Wise Ultima – Infra Observability & Auto-Remediation**  
+**Infra Observability & Auto-Remediation**  
 - Built an AIOps agent combining metrics, logs, incidents, and runbooks  
 - Designed RCA workflows and anomaly detection pipelines  
 - Implemented automated remediation via ServiceNow workflows  
 
-**Wise Migrate – Cloud Migration Strategy Planner**  
-- Built an AI-based cloud recommendation engine using RAG  
-- Designed dependency-aware migration wave and move-group planning  
+**Cloud Migration Strategy Planner**  
+- Built an cloud instance recommendation engine using Agentic RAG which analyses the current spec and recommends right sizing instance and automatically pulls out pricing details using CSP Pricing APIs 
+- And built scheduler for migration planning that's aware of app dependency, team bandwidth and gives the wave and move-group planning.  
 - Reduced manual migration planning effort by ~15%  
 
-**Wise One – HR AI Suite**  
-- Built an HR knowledge agent using SQL tools + GraphRAG  
-- Implemented RBAC, row-level security, PII masking, and guardrails  
+**HR AI Suite**  
+- Built an muti-tenant HR knowledge agent using which pulls out the data from relational databases and from knowledge graphs which is created using unstructured data (performance reports, policy documents)
+- Accesed via RBAC,Performed PII masking/redaction, guardrails check before retrival.
 
 ---
 
@@ -36,30 +35,15 @@ I build **practical AI systems** that solve real enterprise problems.
 Python · SQL  
 
 **AI / ML**  
-Time Series Modelling , Anomaly Detection 
-Vision Models CNN, ANN , Language Models RNN
+Sequential · Spacial models · Clustering algorithms · PCA
 
 **GenAI**
-RAG · Advanced RAG · Prompt Engineering · Function Calling  
-Agentic AI · Vector DBs · LLM Evaluation and Observability
+RAG · Advanced RAG · Prompt Engineering · Agentic AI · Vector DBs · LLM Evaluation and Observability 
 
 **Backend & Cloud**  
-FastAPI · ASP.NET Core · Azure · AWS · Docker · REST APIs  
+FastAPI · ASP.NET Web API · AWS · Docker · REST APIs  
 
 **Data & Platforms**  
 MongoDB · Redis · ServiceNow · Neo4j · PostgreSQL · Qdrant · Pinecone
 
----
-
-## What I care about
-- AI that works **beyond demos**
-- Secure, grounded, and explainable systems
-- Reducing operational effort with smart automation
-
----
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/swetha-selvaraj-22199b200  
-- GitHub: https://github.com/Swetha-Selvaraj  
-- Email: itsswethaselvaraj@gmail.com  
 
