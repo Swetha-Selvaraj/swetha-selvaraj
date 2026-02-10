@@ -1,4 +1,4 @@
-# Hi, I’m Swetha Selvaraj 👋  
+# Hi, I’m Swetha 
 
 Software Engineer focused on **Agentic AI worklows** that solve real enterprise problems.
 
@@ -6,7 +6,7 @@ Software Engineer focused on **Agentic AI worklows** that solve real enterprise 
 
 ## What I do
 - Build **GenAI products** (using RAG, agentic workflows)
-- Worked on **observability & auto-remediation** for infra usecase
+- Worked on **observability & auto-remediation** for infra use case and hrms.
 - Design **cloud-native microservices** on AWS
 
 ---
@@ -45,5 +45,11 @@ FastAPI · ASP.NET Web API · AWS · Docker · REST APIs
 
 **Data & Platforms**  
 MongoDB · Redis · ServiceNow · Neo4j · PostgreSQL · Qdrant · Pinecone
+
+## Currently Exploring
+
+- Multi agent coordination patterns  
+- Evaluation driven GenAI development  
+- Cost/ Latency aware agent design enabling tracing and observability
 
 
